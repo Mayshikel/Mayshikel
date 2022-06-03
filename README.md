@@ -6,7 +6,8 @@
 [![Discord](https://img.shields.io/discord/544585654131097662.svg?label=&logo=discord&logoColor=ffffff&color=596AEA)](https://discord.gg/qDvrubmJUU)
 [![GitHub Followers](https://img.shields.io/github/followers/mayshikel?style=social)](https://discord.gg/qDvrubmJUU)
 
-![https://github.com/mayshikel]([https://scontent.fgye23-1.fna.fbcdn.net/v/t39.30808-6/279429686_701273321291604_2455664446366061139_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=174925&_nc_eui2=AeFmDMYb9Vgwdr-hDQOTcatv-U1ETALpjdL5TURMAumN0vhl_-8ylGxlowrkSoKwTLhAIibMmDLwR4xoSYiMZ7ku&_nc_ohc=_XVb8aUBDXQAX_2Ie93&_nc_ht=scontent.fgye23-1.fna&oh=00_AT-6AEritmVrKhTsD1PHohXQitjtGanDSBs5mJrZt9WqLw&oe=629E7B17])
+
+
 
 I am not a professional software developer, but I have very good ideas and I strive daily to improve in this area.
 
